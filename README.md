@@ -1,5 +1,5 @@
 # VERIFY
-Untuk beberapa alasan, disediakan google drive yang memuat beberapa berkas, seperti:
+Karena ukuran file lebih dari 25 MB untuk hasil ML Model, maka disediakan google drive yang memuat beberapa berkas, seperti:
 
 Notebook
 Model
