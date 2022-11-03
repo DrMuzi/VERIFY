@@ -1,5 +1,5 @@
 # VERIFY
-Untuk beberapa alasan, disediakan repository atau drive yang memuat beberapa berkas, seperti:
+Untuk beberapa alasan, disediakan google drive yang memuat beberapa berkas, seperti:
 
 Notebook
 Model
